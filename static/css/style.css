@@ -1,0 +1,38 @@
+/*For all regular paragraphs dictating font color and size*/
+p {
+    color: saddlebrown;
+    font-size: 19px;
+}
+/*h1 this is basically the title*/
+h1 {
+    color: #2090b8;
+    text-align: center;
+    font-size: 34px;
+}
+/*h2 is for the 4 headers that function as the standard header*/
+h2 {
+    color: #73c8dd;
+    font-size: 26px;
+}
+
+table, td, th{
+    border: solid;
+    border-width: 3px;
+    border-color: #9e1b32;
+    border-collapse: collapse;
+}
+/*For the 3rd Added Paragraph*/
+p#third-paragraph {
+    background-color: darkgreen;
+    padding: 10px;
+    color: whitesmoke;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+img.logo {
+    width: 267px;
+    height: 72px;
+}
