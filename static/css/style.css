@@ -36,3 +36,43 @@ img.logo {
     width: 267px;
     height: 72px;
 }
+
+/* General page styling */
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/* Main content area */
+.content-box {
+    background-color: white;
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+/* Contact form labels */
+.form-label {
+    color: #333333;
+    font-size: 16px;
+}
+
+/* Contact form fields */
+.form-control {
+    font-size: 16px;
+    padding: 10px;
+}
+
+/* Submit button */
+.btn-primary {
+    background-color: #2090b8;
+    border-color: #2090b8;
+    padding: 10px 22px;
+}
+
+.btn-primary:hover {
+    background-color: #176b8a;
+    border-color: #176b8a;
+}
