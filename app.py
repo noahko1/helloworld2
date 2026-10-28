@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
-
+# This is a single-line comment
 
 @app.route('/')
 def hello_world():  # put application's code here
